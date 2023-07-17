@@ -183,6 +183,23 @@ ul i {
     font-weight: 700;
 }
 
+/* footer section start */
+
+.footer-container {
+    background: #0A0826;
+    color: #FFF;
+    text-align: center;
+    padding: 50px 0;
+    line-height: 30px;
+    margin-top: 50px;
+}
+
+
+
+
+
+
+
 
 
 
@@ -246,6 +263,9 @@ ul i {
     .join {
         margin-left: 120px;
     }
+    li {
+        margin-right: 10px;
+    }
 }
 
 
@@ -293,5 +313,8 @@ ul i {
         margin-left: 25px;
     }
 
-
+    .featured-container {
+        gap:10px;
+        margin-left: 10px;
+    }
 }
