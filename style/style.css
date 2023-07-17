@@ -156,7 +156,15 @@ ul i {
     margin-top: 40px;
 }
 
-
+.see-more {
+    display: flex;
+    justify-content:right;
+    align-items: center;
+    margin-top: 20px;
+    color: rgba(224, 44, 109, 0.87);
+    font-weight: 700;
+    font-size: 1rem;
+}
 
 
 
